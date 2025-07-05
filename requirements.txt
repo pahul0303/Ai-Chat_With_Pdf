@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+pymongo
+pypdf
+scikit-learn
+joblib
+typing-extensions
+faiss-cpu
+sentence-transformers
+langchain-huggingface

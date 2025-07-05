@@ -1,0 +1,30 @@
+# =========================
+# 🔒 Python build junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+
+# =========================
+# ⚛️ Node / Next.js frontend (do not include in Docker image)
+node_modules/
+frontend/
+*.tsbuildinfo
+
+# =========================
+# 🛠️ Build logs, VCS, OS cruft
+*.log
+.DS_Store
+.vscode/
+.vercel/
+.env.*
+*.pem
+
+# =========================
+# 🧠 Project-specific
+codevvb
+RAG_APP_Architecture.mermaid
+RAG_APP_Flow.mermaid
