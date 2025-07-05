@@ -1,7 +1,7 @@
 # PDF Q&A App
 
 A modern, full-stack Retrieval-Augmented Generation (RAG) application for asking questions about PDF documents using **HuggingFace Embeddings** and **OpenRouter LLMs** (e.g., GPT-3.5 Turbo).  
-Built and maintained by [Uttkarsh Malviya](https://github.com/Menma420).
+
 
 ---
 
